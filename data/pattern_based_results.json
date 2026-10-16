@@ -1,0 +1,12 @@
+[
+  {
+    "strategy": "Pattern_Based_Corrected",
+    "final_bankroll": 142.3999999999985,
+    "total_profit": -157.6000000000015,
+    "doubles_count": 0,
+    "bankruptcies": 0,
+    "max_bankroll": 302.8399999999999,
+    "min_bankroll": 91.63999999999862,
+    "trade_count": 2000
+  }
+]

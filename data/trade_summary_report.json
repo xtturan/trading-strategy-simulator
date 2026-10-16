@@ -1,0 +1,36 @@
+{
+  "Pattern_Based_Corrected": {
+    "total_trades": 2000,
+    "wins": 212,
+    "win_rate": "10.6%",
+    "total_profit": -157.59999999999994,
+    "max_bankroll": 302.8399999999999,
+    "min_bankroll": 91.63999999999862,
+    "first_trade": {
+      "trade_number": 1,
+      "bet_amount": 1.0,
+      "bet_type": "small",
+      "result": 4,
+      "won": true,
+      "payout": 1.96,
+      "profit": 0.96,
+      "bankroll_before": 300.0,
+      "bankroll_after": 300.96,
+      "contract_amount": 0.98,
+      "payout_multiplier": 2.0
+    },
+    "last_trade": {
+      "trade_number": 2000,
+      "bet_amount": 1.0,
+      "bet_type": "number_7",
+      "result": 3,
+      "won": false,
+      "payout": 0.0,
+      "profit": -1.0,
+      "bankroll_before": 143.3999999999985,
+      "bankroll_after": 142.3999999999985,
+      "contract_amount": 0.98,
+      "payout_multiplier": 0.0
+    }
+  }
+}
